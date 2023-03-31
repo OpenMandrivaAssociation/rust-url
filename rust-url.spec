@@ -5,7 +5,7 @@
 
 Name:           rust-%{crate}
 Version:        2.2.1
-Release:        1
+Release:        2
 Summary:        URL library for Rust, based on the WHATWG URL Standard
 
 # Upstream license specification: MIT/Apache-2.0
